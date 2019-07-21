@@ -1,16 +1,4 @@
-# shopping_cart_flutter
+# BLoc Flutter
 
-A new Flutter application.
+From the name itself, Business Logic Component, the BLoC should be able to handle the business which may include, querying the insertion of data to database, retrieval of data from database, and computing numbers. What’s important to understand here is: Event-in, State-out. Whatever computations or logical operations that happen inside a BLoC, it should be delivered to the UI components through a State.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
